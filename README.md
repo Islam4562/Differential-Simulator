@@ -31,3 +31,5 @@ Differential Simulator
 2. Установите зависимости:
    ```bash
    pip install matplotlib numpy
+
+new-ubdate
